@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" width="320" height="200">
+  <rect width="320" height="200" fill="#5c94fc"/>
+  <rect y="150" width="320" height="50" fill="#00a800"/>
+  <rect y="150" width="320" height="8" fill="#008000"/>
+
+  <!-- Tubería verde -->
+  <rect x="120" y="95" width="80" height="65" fill="#20b020"/>
+  <rect x="115" y="90" width="90" height="12" rx="2" fill="#40d040"/>
+  <rect x="118" y="92" width="84" height="4" fill="#60f060"/>
+  <rect x="125" y="100" width="70" height="4" fill="#108010" opacity="0.5"/>
+
+  <!-- Mario - gorra -->
+  <rect x="148" y="72" width="24" height="6" fill="#e52521"/>
+  <rect x="144" y="78" width="32" height="8" fill="#e52521"/>
+  <rect x="152" y="80" width="16" height="4" fill="#ffffff"/>
+
+  <!-- Cara -->
+  <rect x="146" y="86" width="28" height="18" fill="#f8b878"/>
+  <rect x="150" y="92" width="6" height="4" fill="#000000"/>
+  <rect x="164" y="92" width="6" height="4" fill="#000000"/>
+  <rect x="154" y="100" width="12" height="3" fill="#8b4513"/>
+
+  <!-- Overalls -->
+  <rect x="142" y="104" width="36" height="22" fill="#2060e0"/>
+  <rect x="150" y="104" width="20" height="10" fill="#e52521"/>
+  <rect x="146" y="118" width="10" height="8" fill="#f8b878"/>
+  <rect x="164" y="118" width="10" height="8" fill="#f8b878"/>
+
+  <!-- Brazos saliendo de la tubería -->
+  <rect x="132" y="108" width="10" height="14" fill="#e52521"/>
+  <rect x="178" y="108" width="10" height="14" fill="#e52521"/>
+  <rect x="130" y="120" width="8" height="6" fill="#f8b878"/>
+  <rect x="182" y="120" width="8" height="6" fill="#f8b878"/>
+
+  <!-- Nubes -->
+  <rect x="30" y="30" width="12" height="8" fill="#ffffff" opacity="0.9"/>
+  <rect x="24" y="34" width="24" height="8" fill="#ffffff" opacity="0.9"/>
+  <rect x="250" y="45" width="10" height="6" fill="#ffffff" opacity="0.8"/>
+  <rect x="244" y="48" width="22" height="8" fill="#ffffff" opacity="0.8"/>
+</svg>
