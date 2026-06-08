@@ -2,6 +2,6 @@
 
 # Analista de datos / Desarrollador
 
-<img src="assets/mario-tuberia.svg" alt="Mario saliendo de una tubería" width="320" />
+![Mario saliendo de una tubería](https://raw.githubusercontent.com/juanNarvaez1/juanNarvaez1/main/assets/mario-tuberia.gif)
 
 </div>
