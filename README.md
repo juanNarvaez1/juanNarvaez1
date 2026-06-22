@@ -15,7 +15,7 @@
 
 ## `> Sobre mí`
 
-<img align="right" src="https://raw.githubusercontent.com/juanNarvaez1/juanNarvaez1/main/assets/matrix-terminal.png" width="300" alt="Terminal Matrix juanNarvaez1"/>
+<img align="right" src="https://raw.githubusercontent.com/juanNarvaez1/juanNarvaez1/main/assets/matrix-terminal.gif" width="400" alt="Matrix terminal juanNarvaez1"/>
 
 ```python
 class JuanManuelNarvaez:
