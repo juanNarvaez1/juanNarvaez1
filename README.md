@@ -17,7 +17,7 @@
 
 ## `> Sobre mí`
 
-<img align="right" src="https://raw.githubusercontent.com/durgeshsamariya/awesome-github-profile-readme-templates/master/templates/matrix.gif" width="220" alt="Matrix terminal"/>
+<img align="right" src="./assets/matrix.gif" width="220" alt="Matrix terminal"/>
 
 ```python
 class JuanManuelNarvaez:
