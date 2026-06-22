@@ -17,7 +17,7 @@
 
 ## `> Sobre mí`
 
-<img align="right" src="https://raw.githubusercontent.com/durgeshsamariya/awesome-github-profile-readme-templates/master/templates/matrix.png" width="220" alt="Matrix terminal"/>
+<img align="right" src="https://raw.githubusercontent.com/durgeshsamariya/awesome-github-profile-readme-templates/master/templates/matrix.gif" width="220" alt="Matrix terminal"/>
 
 ```python
 class JuanManuelNarvaez:
@@ -142,17 +142,5 @@ class JuanManuelNarvaez:
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/juanNarvaez1/juanNarvaez1/output/github-contribution-grid-snake.svg)
-
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
-
-<div align="center">
-
-**`$ echo "Wake up neo"`**
-
-<br/>
-
-*README inspirado en [awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) · [supuna97](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/supuna97.md) · [suraweera-AGSS](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/suraweera-AGSS.md)*
 
 </div>
