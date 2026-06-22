@@ -3,7 +3,7 @@
   <rect y="150" width="320" height="50" fill="#00a800"/>
   <rect y="150" width="320" height="8" fill="#008000"/>
 
-  <!-- Tubería verde -->
+  <!-- Tuberï¿½a verde -->
   <rect x="120" y="95" width="80" height="65" fill="#20b020"/>
   <rect x="115" y="90" width="90" height="12" rx="2" fill="#40d040"/>
   <rect x="118" y="92" width="84" height="4" fill="#60f060"/>
@@ -26,7 +26,7 @@
   <rect x="146" y="118" width="10" height="8" fill="#f8b878"/>
   <rect x="164" y="118" width="10" height="8" fill="#f8b878"/>
 
-  <!-- Brazos saliendo de la tubería -->
+  <!-- Brazos saliendo de la tuberï¿½a -->
   <rect x="132" y="108" width="10" height="14" fill="#e52521"/>
   <rect x="178" y="108" width="10" height="14" fill="#e52521"/>
   <rect x="130" y="120" width="8" height="6" fill="#f8b878"/>

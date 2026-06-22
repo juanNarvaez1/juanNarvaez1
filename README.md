@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47fed8e-7199-4a25-a5fae929a1b4.gif" width="900" alt="Matrix banner"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00FF41&center=true&vCenter=true&width=650&lines=Analista+de+datos+%2F+Desarrollador;Welcome+to+the+Matrix...;Python+%7C+SQL+%7C+Airflow+%7C+Docker;Pipelines+%7C+APIs+%7C+Dashboards)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00FF41&center=true&vCenter=true&width=650&lines=Analista+de+datos+%2F+Desarrollador;Wake+up+neo...;Python+%7C+SQL+%7C+Airflow+%7C+Docker;Pipelines+%7C+APIs+%7C+Dashboards)](https://git.io/typing-svg)
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 ## `> Sobre mí`
 
-<img align="right" src="./assets/mario-tuberia.png" width="220" alt="Mario saliendo de una tubería"/>
+<img align="right" src="./assets/mario-tuberia.svg" width="220" alt="Matrix Mario"/>
 
 ```python
 class JuanManuelNarvaez:
@@ -149,7 +149,7 @@ class JuanManuelNarvaez:
 
 <div align="center">
 
-**`$ echo "Gracias por visitar mi perfil"`**
+**`$ echo "Wake up neo"`**
 
 <br/>
 
