@@ -17,7 +17,7 @@
 
 ## `> Sobre mí`
 
-<img align="right" src="./assets/mario-tuberia.svg" width="220" alt="Matrix Mario"/>
+<img align="right" src="https://raw.githubusercontent.com/durgeshsamariya/awesome-github-profile-readme-templates/master/templates/matrix.png" width="220" alt="Matrix terminal"/>
 
 ```python
 class JuanManuelNarvaez:
