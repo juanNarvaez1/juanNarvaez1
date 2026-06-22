@@ -40,9 +40,8 @@ class JuanManuelNarvaez:
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
 
-## `> Tecnologías`
 
-> Inspirado en [awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
+
 
 ### Data & Analytics
 
@@ -98,7 +97,6 @@ class JuanManuelNarvaez:
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
 
-## `> GitHub Stats`
 
 <div align="center">
 
@@ -115,7 +113,6 @@ class JuanManuelNarvaez:
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
 
-## `> Trofeos Matrix`
 
 <div align="center">
 
@@ -127,7 +124,6 @@ class JuanManuelNarvaez:
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
 
-## `> Actividad`
 
 <div align="center">
 
@@ -137,7 +133,6 @@ class JuanManuelNarvaez:
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
 
-## `> Snake Matrix`
 
 <div align="center">
 
