@@ -32,6 +32,7 @@ class JuanManuelNarvaez:
 - Trabajo con **pipelines de datos**, backends y visualización
 - Me interesan **Airflow**, **Docker** y arquitecturas con **mensajería**
 - Creo soluciones con **Python**, **Pandas** y **Power BI**
+- Automatizaciones con **N8N**, **Agentes de IA**
 - **juanmanuelxdz@hotmail.com**
 
 <br clear="right"/>
