@@ -20,11 +20,11 @@
 ```python
 class JuanManuelNarvaez:
     role = "Analista de datos / Desarrollador"
-    focus = ["ETL", "ELT" "APIs", "Dashboards", "Pipelines de datos"]
+    focus = ["ETL", "ELT" "APIs", "Dashboards", "Pipelines de datos", "Automatizaciones",]
     stack = [
         "Airflow", "Docker", "Docker Compose", "RabbitMQ",
         "Python", "JavaScript", "Pandas", "PostgreSQL",
-        "Git", "Power BI", "Spark","jupyter"
+        "Git", "Power BI", "Spark","Jupyter" "Rag", "IA", "Embeddings", "Sql", "AWS", "Azure" 
     ]
     status = "open_to_collaborate"
 ```
